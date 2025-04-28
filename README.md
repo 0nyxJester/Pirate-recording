@@ -1,2 +1,2 @@
 # Pirate-recording
-dnd pirate recoerdings
+dnd pirate recording
